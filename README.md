@@ -1,5 +1,9 @@
 # 🩺 PneumoniaCare — AI-Based Pneumonia Detection from Chest X-ray
 
+## 🌐 Live Demo
+🔗 https://pneumonia-detection-ai-riuy.onrender.com
+
+
 ## 📌 Overview
 PneumoniaCare is an AI-powered medical image analysis system that detects **Pneumonia from Chest X-ray images** using a Convolutional Neural Network (CNN).  
 The application classifies X-ray images into **Normal, Viral, or Bacterial Pneumonia**, providing prediction confidence, infection stage, medical comment, downloadable report, and diagnosis history.
