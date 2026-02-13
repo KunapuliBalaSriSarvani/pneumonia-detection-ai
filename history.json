@@ -1,0 +1,79 @@
+[
+    {
+        "filename": "NORMAL2-IM-1326-0001.jpeg",
+        "prediction": "Bacterial Pneumonia",
+        "confidence": 97.61,
+        "timestamp": "2025-10-09 20:55:44",
+        "probs": [
+            0.020536011084914207,
+            0.9760625958442688,
+            0.003401473630219698
+        ],
+        "stage": "Severe Infection"
+    },
+    {
+        "filename": "IM-0005-0001.jpeg",
+        "prediction": "NORMAL",
+        "confidence": 80.44,
+        "stage": "Healthy",
+        "cause": "Lungs appear healthy. Keep maintaining a healthy lifestyle.",
+        "probs": [
+            0.14111147820949554,
+            0.8044336438179016,
+            0.054454948753118515
+        ],
+        "timestamp": "2025-10-10 08:05:06"
+    },
+    {
+        "filename": "person1_virus_9.jpeg",
+        "prediction": "BACTERIAL",
+        "confidence": 85.56,
+        "stage": "Severe Infection",
+        "cause": "Bacterial infection detected. Recommended to start antibiotics, maintain hydration, and consult a doctor.",
+        "probs": [
+            0.855597198009491,
+            7.561873644590378e-05,
+            0.14432716369628906
+        ],
+        "timestamp": "2025-10-10 08:05:32"
+    },
+    {
+        "filename": "person1_virus_7.jpeg",
+        "prediction": "BACTERIAL",
+        "confidence": 89.53,
+        "stage": "Severe Infection",
+        "cause": "Bacterial infection detected. Recommended to start antibiotics, maintain hydration, and consult a doctor.",
+        "probs": [
+            0.8952559232711792,
+            0.001265324535779655,
+            0.10347874462604523
+        ],
+        "timestamp": "2025-10-10 10:48:33"
+    },
+    {
+        "filename": "person1_virus_8.jpeg",
+        "prediction": "BACTERIAL",
+        "confidence": 74.56,
+        "stage": "Moderate Infection",
+        "cause": "Bacterial infection detected. Recommended to start antibiotics, maintain hydration, and consult a doctor.",
+        "probs": [
+            0.7455763220787048,
+            6.819786358391866e-05,
+            0.2543555200099945
+        ],
+        "timestamp": "2025-10-10 10:59:54"
+    },
+    {
+        "filename": "person1_virus_7.jpeg",
+        "prediction": "BACTERIAL",
+        "confidence": 89.53,
+        "stage": "Severe Infection",
+        "cause": "Bacterial infection detected. Recommended to start antibiotics, maintain hydration, and consult a doctor.",
+        "probs": [
+            0.8952559232711792,
+            0.001265324535779655,
+            0.10347874462604523
+        ],
+        "timestamp": "2025-10-10 11:00:22"
+    }
+]
