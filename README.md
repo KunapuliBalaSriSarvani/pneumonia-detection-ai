@@ -92,3 +92,11 @@ static/                 → CSS and UI resources
 
 Due to repository size limitations, only sample images are included.  
 The model was trained on a larger Chest X-ray dataset.
+
+## 📸 Screenshots
+
+![Normal](docs/screenshots/Normal%20result.jpg)  
+![Viral](docs/screenshots/Viral%20result.jpg)  
+![Bacterial](docs/screenshots/Bacterial%20result.jpg)  
+![History](docs/screenshots/Diagnosis%20history.jpg)
+
